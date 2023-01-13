@@ -1,7 +1,7 @@
 # Auto Translate
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/devaslanphp/auto-translate.svg?style=flat-square)](https://packagist.org/packages/devaslanphp/auto-translate)
-[![Total Downloads](https://img.shields.io/packagist/dt/devaslanphp/auto-translate.svg?style=flat-square)](https://packagist.org/packages/devaslanphp/auto-translate)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/devaslanphp/auto-translate.svg?style=flat-square?v=20230113)](https://packagist.org/packages/devaslanphp/auto-translate)
+[![Total Downloads](https://img.shields.io/packagist/dt/devaslanphp/auto-translate.svg?style=flat-square?v=20230113)](https://packagist.org/packages/devaslanphp/auto-translate)
 
 This package provides a simple way to automatically generate translation JSON files for you, it helps you to generate the missing translation also.
 The translation are generated automatically using Google Translations, based on the package `stichoza/google-translate-php` and exporting translations string from your source code using the package `kkomelin/laravel-translatable-string-exporter`.
