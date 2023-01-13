@@ -1,4 +1,4 @@
-# Auto Translate
+# Laravel Auto Translations
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/devaslanphp/auto-translate.svg?style=flat-square?v=20230113)](https://packagist.org/packages/devaslanphp/auto-translate)
 [![Total Downloads](https://img.shields.io/packagist/dt/devaslanphp/auto-translate.svg?style=flat-square?v=20230113)](https://packagist.org/packages/devaslanphp/auto-translate)
