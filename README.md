@@ -17,7 +17,7 @@ composer require devaslanphp/auto-translate
 *REQUIRED*: You need to publish the package config file, so you can update the `base_locale` and `locales` list as needed:
 
 ```shell
-php artisan vendor:publish --tag=auto-translate
+php artisan vendor:publish --tag=auto-translate-config
 ```
 
 **That's it**, you can use the package commands to generate missing translations and automatically translate them using Google Translations
