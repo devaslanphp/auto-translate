@@ -14,6 +14,20 @@ You can install the package via composer:
 composer require devaslanphp/auto-translate
 ```
 
+Add the package provider into your `config/app.php` file:
+
+```php
+//...
+
+'providers' => [
+      // ...
+
+      \Devaslanphp\AutoTranslate\AutoTranslateProvider::class,
+],
+
+// ...
+```
+
 *REQUIRED*: You need to publish the package config file, so you can update the `base_locale` and `locales` list as needed:
 
 ```shell
